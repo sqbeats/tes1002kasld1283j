@@ -21,4 +21,5 @@
 4. Запустите тесты
 
    ```bash
-   pytest tests/test_palindrome.py
+   pytest tests/test_palindrome.py -vv
+   ```
